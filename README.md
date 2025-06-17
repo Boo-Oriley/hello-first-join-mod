@@ -1,3 +1,5 @@
+## 👋 Hello First Join Mod
+
 A lightweight Fabric mod for Minecraft 1.21.1 that greets new and returning players differently!
 
 - 🧠 Remembers who has joined before
